@@ -4,4 +4,6 @@ body{
 
 h2{
 font-size: x-large;
+font-weight: bold;
+color: red;
 }
